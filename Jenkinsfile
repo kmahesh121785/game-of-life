@@ -12,15 +12,7 @@ stage('scm') {
 }
 
 
- 
-
-stage('package') {
-    
- 
-   sh 'mvn package'
-
-}
-   
+  
 
 
 
